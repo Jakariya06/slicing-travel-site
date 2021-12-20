@@ -1,0 +1,3 @@
+swiper error
+cara : ngubah cdn,e, css swiper width,e diatur/diilangi
+sovlved : dst-wpnya diatur, penamaan 2 kelas harus diperhatikan
